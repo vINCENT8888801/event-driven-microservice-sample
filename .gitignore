@@ -4,6 +4,9 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+### Keys
+!**/src/main/resources/twitter4j.properties
+
 ### STS ###
 .apt_generated
 .classpath
@@ -12,6 +15,7 @@ target/
 .settings
 .springBeans
 .sts4-cache
+.log
 
 ### IntelliJ IDEA ###
 .idea
